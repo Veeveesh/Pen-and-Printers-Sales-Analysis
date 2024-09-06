@@ -22,29 +22,29 @@ After the data validation, the dataset contains 14998 rows and 8 columns without
 ## How many customers were there for each approach?
 
 **Approximately half of the customers were approached only by Email with a total count of 7465 customers. The Call only approach made up about 33 percent of the total customer count with a value of 4961 customers and The Email + Call approach has the least customer count of 2572 customers which about 17 percent of the total population.** 
-![Customer by sales Approach](Customer%20by%20sales%20Approach.jpg)
+![Customer by sales Approach](images/Customer_by_sales_Approach.jpg)
 
 ## What does the spread of the revenue look like overall? And for each method?
 
 The Majority of the revenue of the customer is between 106.07 dollars and 53.04 dollars with most it's values being lower than the median revenue of 89.5 dollars
-![Total Spread of Revenue](Total%20Spread%20of%20Revenue.jpg)
+![Total Spread of Revenue](images/Total_Spread_of_Revenue.jpg)
 
 The Email + Call method offers a higher range of revenue outcomes but with more variability, while the Email and Call methods provide more consistent, though generally lower revenues with a few high-revenue results.
 
-![Spread of Revenue by Sales method](Spread%20of%20Revenue%20by%20Sales%20method.jpg)
+![Spread of Revenue by Sales method](images/Spread_of_Revenue_by_Sales_method.jpg)
 
 ## Was there any difference in revenue over time for each of the methods?
 
 Each line represents a sales method, allowing us to compare their performance in terms of revenue generation over time.
 
 The **Email** method started with the highest revenue but declined steadily over time, while the **Email + Call** method showed significant growth, peaking around week 5 before a slight drop. The **Call** method maintained steady growth throughout the 6-week period. This suggests that combining emails with calls may be more effective in sustaining higher revenue levels over time compared to relying solely on emails.
-![Weekly revenue Trend by sales method](Weekly%20revenue%20Trend%20by%20sales%20method.jpg)
+![Weekly revenue Trend by sales method](images/Weekly_revenue_Trend_by_sales_method.jpg)
 
 Looking at the Average revenue per visit and the Average number of products sold per week. The **Email + Call** method has the highest average revenue per visit, while the **Email** method achieves the highest average sales per week.
-![Avg Revenue per visit and avg sales per week by sales method](Avg%20Revenue%20per%20visit%20and%20avg%20sales%20per%20week%20by%20sales%20method.jpg)
+![Avg Revenue per visit and avg sales per week by sales method](images/Avg_Revenue_per_visit_and_avg_sales_per_week_by_sales_method.jpg)
 
 And as customers remain with the company longer, the number of products sold to them tends to decrease significantly across all sales methods.This suggests that focusing on new customers might be more effective for driving sales, regardless of the sales method used.
-![Sales performance by years as customer and sales method](Sales%20performance%20by%20years%20as%20customer%20and%20sales%20method.jpg)
+![Sales performance by years as customer and sales method](images/Sales_performance_by_years_as_customer_and_sales_method.jpg)
 
 ## In summary: 
 Based on my analysis on the data provided for the past 6 weeks, the use of **Email + Call** sales method is the best method, As shown in the "Weekly Revenue Trend by sales method" relying only on Email may not sustain high revenue levels and the Call method is not efficient as it consumes the most time.
@@ -53,7 +53,7 @@ Tne Expected Total Revenue if all customers use Email+Call is 1,710,901.49 dolla
 
 # Business Metrics
 Since our goal is to optimise our time and resources,leading to better allocation of resources and improved overall profitability. I would recommend **Revenue Efficiency** as our metric.
-![Revenue efficiency by sales method](Revenue%20efficiency%20by%20sales%20method.jpg) 
+![Revenue efficiency by sales method](images/Revenue_efficiency_by_sales_method.jpg) 
 
 # Recommendation
 **For the following weeks, I would recommend we can focus on the following steps:**
