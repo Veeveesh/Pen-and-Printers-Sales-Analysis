@@ -28,3 +28,4 @@ GROUP BY sales_method;
 
 SELECT DISTINCT sales_method FROM clean_product_sales;
 
+-- this should help with the language detection
